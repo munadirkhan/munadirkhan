@@ -72,9 +72,9 @@
   AI fitness assistant built with React, Firebase, and LLM APIs, scaling to 500+ beta users.
 **Stack:** TypeScript, Next.js, APIs, Cloud 
 ---
-## 📊 GitHub Stats
-![Munadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=munadirkhan&show_icons=true&theme=tokyonight)
+## 📊 Favorite Quote
 
+"Happy is the man who avoids hardship, but how fine is the man who is afflicted and shows endurance.” Prophet Muhammad (peace be upon him)
 ---
 
 ## ⚡ Outside of Code
