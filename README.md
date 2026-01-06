@@ -1,23 +1,85 @@
-# Hey there, I am Munadir Khan 👋
+# Hey, I'm Munadir Khan 👋
 
-### About Me:
-- [cite_start]🎓 I’m a Software Engineering student at the **University of Western Ontario**[cite: 6].
-- [cite_start]🚀 Currently working as a **Software Engineer at Western AI / CUCAI Research**, architecting AI-driven plagiarism detection systems[cite: 16, 18].
-- [cite_start]🤖 Previously an **Autonomous Systems Engineer** at Western Aero Design, developing VTOL flight control software[cite: 21, 23].
-- [cite_start]💼 Former **Software Engineering Intern at Caterpillar Inc.**, where I automated ERP data pipelines[cite: 10, 12].
-- [cite_start]🏆 Ranked **2nd out of 1000** in the Engineering Design Showcase for an AI-driven filtration system[cite: 9].
-- [cite_start]📫 Reach me at: **munadirkhan@gmail.com**[cite: 3].
-- [cite_start]🌐 Portfolio: **[munadirkhan.me](https://munadirkhan.me)**[cite: 2].
+Software Engineering student building scalable systems, applied AI, and autonomous software — with experience in industry, research, and startups.
 
-### Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+🌐 **Portfolio:** https://www.munadirkhan.me  
+📄 **Resume:** https://www.munadirkhan.me/Resume.pdf  
+📫 **Email:** munadirkhan@gmail.com  
+🐙 **GitHub:** https://github.com/munadirkhan  
 
-### Projects:
-- [cite_start]**[CrashGuard AI](https://github.com/munadirkhan/CrashGuardAI):** Fintech MVP for pump-and-dump detection using Isolation Forest and VADER NLP[cite: 26, 28, 29].
-- [cite_start]**[CodeBuster](https://github.com/munadirkhan/CodeBuster):** AI-driven plagiarism detection utilizing GraphCodeBERT embeddings[cite: 18].
-- [cite_start]**[GymBot](https://github.com/munadirkhan/GymBot):** AI fitness assistant scaling to 500+ users via Cohere API and GCP[cite: 30, 32].
+---
 
-### GitHub Stats:
+## 🚀 What I’m Working On
+- 🤖 **AI Systems & Applied ML** — plagiarism detection, anomaly detection, NLP
+- ✈️ **Autonomous Systems** — VTOL flight control, sensor fusion, real-time navigation
+- 💻 **Full-Stack Engineering** — data pipelines, dashboards, cloud-native apps
+- 📈 **Fintech & Analytics** — market anomaly detection and scalable data workflows
+
+---
+
+## 🧠 Experience Snapshot
+- **Software Engineering Intern @ Caterpillar Inc.**  
+  Automated ERP data pipelines, built Python ETL systems, and shipped KPI dashboards used across logistics teams.
+
+- **Software Engineer @ Western AI / CUCAI Research**  
+  Architected *CodeBuster*, an AI-powered plagiarism detection system using GraphCodeBERT and ML classification.
+
+- **Autonomous Systems Engineer @ Western Aero Design**  
+  Developed VTOL flight control software with PX4, MAVSDK, LiDAR, GPS, and sensor fusion.
+
+- 🏆 **2nd / 1000** — Western Engineering Design Showcase  
+  Built an AI-based filtration system improving lead removal efficiency.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405e?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Tools**  
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square)
+
+**Cloud & Systems**  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🛠️ Featured Projects
+- 🛡️ **CrashGuard AI**  
+  Fintech MVP detecting pump-and-dump patterns using anomaly detection and sentiment analysis.
+
+- 🔍 **CodeBuster**  
+  AI-driven plagiarism detection leveraging GraphCodeBERT embeddings and ML classifiers.
+
+- 🏋️ **GymBot**  
+  AI fitness assistant built with React, Firebase, and LLM APIs, scaling to 500+ beta users.
+
+---
+
+## 📊 GitHub Stats
 ![Munadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=munadirkhan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munadirkhan&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ Outside of Code
+I enjoy building things that *actually ship*, hacking on ideas, teaching others, and staying active — gym, soccer, and the occasional hackathon grind.
+
+If you’re working on something interesting, feel free to reach out.
