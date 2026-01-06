@@ -1,11 +1,9 @@
-# Hey, I'm Munadir Khan 👋
+# Hey there, I'm Munadir Khan 👋
 
-Software Engineering student building scalable systems, applied AI, and autonomous software — with experience in industry, research, and startups.
-
-🌐 **Portfolio:** https://www.munadirkhan.me  
-📄 **Resume:** https://www.munadirkhan.me/Resume.pdf  
-📫 **Email:** munadirkhan@gmail.com  
-🐙 **GitHub:** https://github.com/munadirkhan  
+🎓 Software Engineering @ University of Western Ontario  
+💻 Builder focused on systems, AI, and scalable software  
+🌐 Portfolio: https://www.munadirkhan.me  
+📫 Email: munadirkhan@gmail.com  
 
 ---
 
@@ -65,21 +63,21 @@ Software Engineering student building scalable systems, applied AI, and autonomo
 ## 🛠️ Featured Projects
 - 🛡️ **CrashGuard AI**  
   Fintech MVP detecting pump-and-dump patterns using anomaly detection and sentiment analysis.
+  **Stack:** Python, ML, APIs, Cloud  
 
 - 🔍 **CodeBuster**  
   AI-driven plagiarism detection leveraging GraphCodeBERT embeddings and ML classifiers.
-
+**Stack:** Python, ML, Research, Systems  
 - 🏋️ **GymBot**  
   AI fitness assistant built with React, Firebase, and LLM APIs, scaling to 500+ beta users.
-
+**Stack:** TypeScript, Next.js, APIs, Cloud 
 ---
-
 ## 📊 GitHub Stats
 ![Munadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=munadirkhan&show_icons=true&theme=tokyonight)
 
 ---
 
 ## ⚡ Outside of Code
-I enjoy building things that *actually ship*, hacking on ideas, teaching others, and staying active — gym, soccer, and the occasional hackathon grind.
+I enjoy building things that *actually ship*, hacking on ideas, teaching others, [currently] playing all souls games and staying active, gym, basketball, and the occasional hackathon grind.
 
 If you’re working on something interesting, feel free to reach out.
