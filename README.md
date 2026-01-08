@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 What I’m Working On
-- 🤖 **AI Systems & Applied ML** — plagiarism detection, anomaly detection, NLP
-- ✈️ **Autonomous Systems** — VTOL flight control, sensor fusion, real-time navigation
-- 💻 **Full-Stack Engineering** — data pipelines, dashboards, cloud-native apps
-- 📈 **Fintech & Analytics** — market anomaly detection and scalable data workflows
+- 🤖 **AI Systems & Applied ML**: plagiarism detection, anomaly detection, NLP
+- ✈️ **Autonomous Systems**: VTOL flight control, sensor fusion, real-time navigation
+- 💻 **Full-Stack Engineering**:  data pipelines, dashboards, cloud-native apps
+- 📈 **Fintech & Analytics**: market anomaly detection and scalable data workflows
 
 ---
 
