@@ -1,4 +1,4 @@
-# Hey there, I'm Munadir Khan 👋
+# Hey there, I'm Munadir 👋
 
 🎓 Software Engineering @ University of Western Ontario  
 💻 Builder focused on systems, AI, and scalable software  
