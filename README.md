@@ -3,7 +3,7 @@
 🎓 Software Engineering @ University of Western Ontario  
 💻 Builder focused on scalable software  
 🌐 Portfolio: https://www.munadirkhan.me  
-📫 Email: munadirkhan@gmail.com  
+📫 Email: munadir.khan6@gmail.com  
 
 ---
 
