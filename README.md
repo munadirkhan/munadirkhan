@@ -49,7 +49,7 @@
 ---
 ## 📊 Favorite Quote
 
-"Happy is the man who avoids hardship, but how fine is the man who is afflicted and shows endurance.” Prophet Muhammad (peace be upon him)
+"Happy is the man who avoids hardship, but how fine is the man who is afflicted and shows endurance.” - Prophet Muhammad (PBUH)
 ---
 
 ## ⚡ Outside of Code
