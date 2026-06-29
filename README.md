@@ -1,32 +1,9 @@
 #Hey, I'm Munadir 👋
 
 🎓 Software Engineering @ University of Western Ontario  
-💻 Builder focused on systems, AI, and scalable software  
+💻 Builder focused scalable software  
 🌐 Portfolio: https://www.munadirkhan.me  
 📫 Email: munadirkhan@gmail.com  
-
----
-
-## 🚀 What I’m Working On
-- 🤖 **AI Systems & Applied ML**: plagiarism detection, anomaly detection, NLP
-- ✈️ **Autonomous Systems**: VTOL flight control, sensor fusion, real-time navigation
-- 💻 **Full-Stack Engineering**:  data pipelines, dashboards, cloud-native apps
-- 📈 **Fintech & Analytics**: market anomaly detection and scalable data workflows
-
----
-
-## 🧠 Experience Snapshot
-- **Software Engineering Intern @ Caterpillar Inc.**  
-  Automated ERP data pipelines, built Python ETL systems, and shipped KPI dashboards used across logistics teams.
-
-- **Software Engineer @ Western AI / CUCAI Research**  
-  Architected *CodeBuster*, an AI-powered plagiarism detection system using GraphCodeBERT and ML classification.
-
-- **Autonomous Systems Engineer @ Western Aero Design**  
-  Developed VTOL flight control software with PX4, MAVSDK, LiDAR, GPS, and sensor fusion.
-
-- 🏆 **2nd / 1000** — Western Engineering Design Showcase  
-  Built an AI-based filtration system improving lead removal efficiency.
 
 ---
 
@@ -67,10 +44,8 @@
 
 - 🔍 **CodeBuster**  
   AI-driven plagiarism detection leveraging GraphCodeBERT embeddings and ML classifiers.
-**Stack:** Python, ML, Research, Systems  
-- 🏋️ **GymBot**  
-  AI fitness assistant built with React, Firebase, and LLM APIs, scaling to 500+ beta users.
-**Stack:** TypeScript, Next.js, APIs, Cloud 
+**Stack:** Python, ML, Research, Systems
+  
 ---
 ## 📊 Favorite Quote
 
@@ -78,6 +53,5 @@
 ---
 
 ## ⚡ Outside of Code
-I enjoy building things that *actually ship*, hacking on ideas, teaching others, [currently] playing all souls games and staying active, gym, basketball, and the occasional hackathon grind.
+I'm [currently] playing all souls games, gym (goal: 315 bench by the end of the year), basketball, and the occasional hackathon grind.
 
-If you’re working on something interesting, feel free to reach out.
