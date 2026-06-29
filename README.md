@@ -1,7 +1,7 @@
 #Hey, I'm Munadir 👋
 
 🎓 Software Engineering @ University of Western Ontario  
-💻 Builder focused scalable software  
+💻 Builder focused on scalable software  
 🌐 Portfolio: https://www.munadirkhan.me  
 📫 Email: munadirkhan@gmail.com  
 
